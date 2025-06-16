@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Gallery
 description:
@@ -10,4 +10,4 @@ children:
     permalink: /ictc24/
   - title: divider
 
----
+--- -->
