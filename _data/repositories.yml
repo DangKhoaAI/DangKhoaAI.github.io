@@ -1,0 +1,9 @@
+github_users:
+  - nhut-ngnn
+
+repo_description_lines_max: 2
+
+github_repos:
+  - DangKhoaAI/TransferlearningMedicalImage
+  - DangKhoaAI/multimodal_xai_medical
+  - DangKhoaAI/texttospeech
