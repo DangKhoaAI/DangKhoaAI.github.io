@@ -3,10 +3,10 @@ layout: page
 permalink: /repositories/
 title: Repositories
 nav: true
-nav_order: 4
+nav_order: 3
 ---
  <!-- LAYOUT FOR PAGE REPO , IF WANT TO EDIT CONTENT , GO TO _data/repositories.yml-->
-## GitHub users
+<!-- ## GitHub users
 
 {% if site.data.repositories.github_users %}
 
@@ -32,7 +32,7 @@ nav_order: 4
 
 {% endfor %}
 {% endif %}
-{% endif %}
+{% endif %} -->
 
 ## GitHub Repositories
 
