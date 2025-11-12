@@ -13,7 +13,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 **Short Bio** : My name is Khoa, and and I am currently an undergraduate student pursuing a Bachelor of Science degree in **Artificial Intelligence** at [**FPT University, Ho Chi Minh Campus**](https://university.fpt.edu.vn/), with a strong focus on the mathematical and algorithmic foundations of machine learning, deep learning, computer vision and machine learning operations (MLOps). My academic interests are grounded in understanding how algorithms work from first principles—emphasizing theoretical clarity, mathematical rigor, and practical relevance. 
 
