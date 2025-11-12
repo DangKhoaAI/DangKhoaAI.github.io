@@ -1,16 +1,16 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRev":
+#   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+# "Vision":
+#   color: "#009f36"
 
-"ICTC":
-  url: https://ictc.org/
-  color: "#215d42"
+# "ICTC":
+#   url: https://ictc.org/
+#   color: "#215d42"
 
-"Preprint":
-  color: "#0d93bf"
+# "Preprint":
+#   color: "#0d93bf"
